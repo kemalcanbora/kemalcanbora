@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Kemalcan Bora
+- 👀 I’m interested in AWS, Python, Go
